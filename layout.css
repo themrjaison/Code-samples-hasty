@@ -1,0 +1,35 @@
+.div.carousel.slide {
+    height: 500px;
+    position: relative;
+    box-sizing: border-box;
+}
+.carousel-inner {
+    box-sizing: border-box;
+    display: block;
+    object-position: center;
+    object-fit: contain;
+}
+.carousel-slide {
+    height: 300px;
+    position: relative;
+}
+.layouts-card {
+    border: none;
+    box-shadow: var(--ct-card-box-shadow);
+    margin-bottom: 24px;
+    width: 50rem;
+}
+.layout-carousel-item {
+    height: 500;
+}
+.layout-carousel-actual {
+    height: 500;
+}
+.layout-carousel-fluid {
+    box-sizing: border-box;
+    height: 315.4px;
+    line-height: 21.6px;
+    max-width: 100%;
+    text-align: start;
+    vertical-align: middle;
+}

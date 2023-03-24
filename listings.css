@@ -1,0 +1,25 @@
+.div.carousel.slide {
+    height: 500px;
+    position: relative;
+    box-sizing: border-box;
+}
+.listings-carousel-card {
+    border: none;
+    box-shadow: var(--ct-card-box-shadow);
+    margin-bottom: 24px;
+    width: 50rem;
+}
+.listing-carousel-item {
+    height: 500;
+}
+.listing-carousel-actual {
+    height: 500;
+}
+.listing-carousel-fluid {
+    box-sizing: border-box;
+    height: 315.4px;
+    line-height: 21.6px;
+    max-width: 100%;
+    text-align: start;
+    vertical-align: middle;
+}
